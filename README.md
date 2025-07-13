@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">I am Student and I am Robotic fan 🤖</h3>
+<h3 align="center">Student and Robotic fan 🤖</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kingoxi&label=Profile%20views&color=0e75b6&style=flat" alt="kingoxi" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React / ASP .NET / JavaScript**
 
-- 📫 How to reach me [Mail to me](mailto://hamza.lumos@gmail.com)
+- 📫 How to reach me [Mail to me](mailto:hamza.lumos@gmail.com)
 
 - ⚡ Fun fact **I am ROBOT🤖**
 
